@@ -86,7 +86,8 @@ plot2d3('gnn',r);
 
 
 ![WhatsApp Image 2025-12-03 at 14 46 36_6430238e](https://github.com/user-attachments/assets/0b37a5f8-981c-449c-9c77-57fd22794f24)
-![WhatsApp Image 2025-12-03 at 14 46 47_996efac9](https://github.com/user-attachments/assets/bbb37787-744d-41b3-8440-51e3e7ea76a5)
+![WhatsApp Image 2025-12-04 at 15 30 08_69e9b953](https://github.com/user-attachments/assets/5d67c7c5-ebe0-4c5c-ba16-cf8fdc61f509)
+
 
 
 
